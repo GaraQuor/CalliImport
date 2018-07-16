@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllImportCalli", "DllImportCalli\DllImportCalli.csproj", "{4BE325CD-256E-4417-B33B-1C87EF4563E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calli", "Calli\Calli.csproj", "{6673CC8D-144B-4568-AE34-8F8842A5380A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE325CD-256E-4417-B33B-1C87EF4563E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE325CD-256E-4417-B33B-1C87EF4563E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE325CD-256E-4417-B33B-1C87EF4563E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE325CD-256E-4417-B33B-1C87EF4563E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6673CC8D-144B-4568-AE34-8F8842A5380A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6673CC8D-144B-4568-AE34-8F8842A5380A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6673CC8D-144B-4568-AE34-8F8842A5380A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6673CC8D-144B-4568-AE34-8F8842A5380A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+D:\Workspace\BattleKart\Projects\Others\DllImportCalli\Calli\bin\Release\Calli.dll
+D:\Workspace\BattleKart\Projects\Others\DllImportCalli\Calli\bin\Release\Calli.pdb
+D:\Workspace\BattleKart\Projects\Others\DllImportCalli\Calli\obj\Release\Calli.dll
+D:\Workspace\BattleKart\Projects\Others\DllImportCalli\Calli\obj\Release\Calli.pdb
